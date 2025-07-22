@@ -32,10 +32,10 @@ Aplikasi ini dibangun menggunakan template resmi dari Kotlin sebagai demonstrasi
 <img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/main/ss1.png"
      alt="Main Activity"
      style="float: left; margin-right: 10px;"
-     width="2000" />
+     width="500" />
 
 <img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/main/ss2.png"
      alt="Detail Activity"
      style="float: left; margin-right: 10px;"
-     width="2000" />
+     width="500" />
 
