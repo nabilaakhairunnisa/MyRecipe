@@ -2,6 +2,9 @@
 
 Aplikasi resep sederhana yang dibangun menggunakan Kotlin Multiplatform Mobile (KMM) dan Jetpack Compose. Aplikasi ini menampilkan daftar resep dan detailnya, termasuk bahan-bahan dan cara memasak.
 
+Aplikasi ini dibangun menggunakan template resmi dari Kotlin sebagai demonstrasi dan sarana pembelajaran tentang pengembangan aplikasi lintas platform menggunakan teknologi Kotlin. 
+**Sumber Template:** [Kotlin/KMP-App-Template](https://github.com/Kotlin/KMP-App-Template)
+
 ## Fitur
 
 * **Tampilan Daftar Resep:** Menampilkan daftar resep yang tersedia. 
@@ -25,3 +28,14 @@ Aplikasi resep sederhana yang dibangun menggunakan Kotlin Multiplatform Mobile (
 * **Koin:** Untuk dependency injection.
 * **Coil 3:** Untuk memuat gambar.
 * **Material 3:** Komponen UI modern dari Google.
+
+<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/master/ss1.png"
+     alt="Main Activity"
+     style="float: left; margin-right: 10px;"
+     width="2000" />
+
+<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/master/ss2.png"
+     alt="Main Activity"
+     style="float: left; margin-right: 10px;"
+     width="2000" />
+
