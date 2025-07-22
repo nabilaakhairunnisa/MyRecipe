@@ -29,13 +29,13 @@ Aplikasi ini dibangun menggunakan template resmi dari Kotlin sebagai demonstrasi
 * **Coil 3:** Untuk memuat gambar.
 * **Material 3:** Komponen UI modern dari Google.
 
-<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/master/ss1.png"
+<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/main/ss1.png"
      alt="Main Activity"
      style="float: left; margin-right: 10px;"
      width="2000" />
 
-<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/master/ss2.png"
-     alt="Main Activity"
+<img src="https://github.com/nabilaakhairunnisa/myrecipe/blob/main/ss2.png"
+     alt="Detail Activity"
      style="float: left; margin-right: 10px;"
      width="2000" />
 
